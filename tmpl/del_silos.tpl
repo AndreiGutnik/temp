@@ -1,0 +1,1 @@
+<option value="%silos_id%">Силос %silos_id%</option>    
